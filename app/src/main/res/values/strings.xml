@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Remote Control</string>
+    <string name="remote_name"> <b>My TV</b></string>
+    <string name="tvPower">TV Power</string>
+    <string name="speakerVolume">Speaker Volume</string>
+    <string name="currentChannel">Current Channel</string>
+    <string name="Power">Power</string>
+    <string name="Volume">Volume</string>
+    <string name="channel">Channel</string>
+    <string name="favoriteChannel">Favorite Channel</string>
+    <string name="num0">0</string>
+    <string name="num1">1</string>
+    <string name="num2">2</string>
+    <string name="num3">3</string>
+    <string name="num4">4</string>
+    <string name="num5">5</string>
+    <string name="num6">6</string>
+    <string name="num7">7</string>
+    <string name="num8">8</string>
+    <string name="num9">9</string>
+    <string name="powerVal">OFF</string>
+    <string name="volumeVal">50</string>
+    <string name="channelVal">187</string>
+    <string name="myRemoteControl"><b>My Remote Control</b></string>
+    <string name="incChannel">CH+</string>
+    <string name="decChannel">CH-</string>
+    <string name="fav1">ABC</string>
+    <string name="fav2">NBC</string>
+    <string name="fav3">CBS</string>
+</resources>
